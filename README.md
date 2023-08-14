@@ -6,4 +6,4 @@
 + Ignacio Fuentes
 
 
-Link [PATO-TRADING](https://pato-trading.streamlit.app/)
+[PATO-TRADING](https://pato-trading.streamlit.app/)
