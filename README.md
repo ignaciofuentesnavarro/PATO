@@ -1,6 +1,9 @@
-# PATO
+### PATO
 
-Aplicación de Trading creada por:
-Fernando Nachbauer
-Javier Vega
-Ignacio Fuentes
+## Aplicación de Trading creada por:
+- Fernando Nachbauer
+- Javier Vega
+- Ignacio Fuentes
+
+
+Link 
